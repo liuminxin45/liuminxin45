@@ -1,17 +1,18 @@
 # Hi 👋, I'm Minxin Liu
 
-我是一名 C++ / SDK / 跨平台软件开发者，长期关注工业软件、客户端架构、设备接入、自动化工具与工程效率。
+C++ / SDK / cross-platform software developer.
 
-我喜欢把复杂问题拆成清晰、稳定、可维护的系统；也在探索 AI 应用、自动化工作流和现代 Web 产品开发。
+I build tools, automate workflows, and explore AI-powered products.
+Most of my work lives around software systems, client applications, device integration, and practical engineering tools.
 
-> 像风穿过旷野，亲历生命经过的声音。
+> Like wind across the open field, here to witness life passing through.
 
-* 🔭 正在做：个人网站、项目作品集、AI 工具实验
-* 🌱 最近关注：AI Agent、RAG、自动化工作流、前端工程化
-* 💬 可以交流：C++、SDK 设计、Qt、Electron、NAPI、自动化测试、AI 工具链
-* 🌐 个人网站：[liuminxin45.github.io](https://liuminxin45.github.io)
+* 🧩 Building with C++, SDKs, cross-platform clients, and automation tools
+* 🌱 Exploring AI applications, workflow automation, and modern web products
+* 📖 More about my journey: [liuminxin45.github.io](https://liuminxin45.github.io)
+* 📫 Contact me: [dissengineer@gmail.com](mailto:dissengineer@gmail.com)
 
-### Languages and Tools:
+### Languages and Tools
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -29,6 +30,9 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -40,6 +44,15 @@
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
