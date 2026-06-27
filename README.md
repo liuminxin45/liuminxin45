@@ -1,6 +1,6 @@
 # Hi 👋, I'm Minxin Liu
 
-C++ / SDK / cross-platform software developer.
+Cross-platform client software developer.
 
 I work across native clients, Electron, Vue, automation workflows, and practical AI-powered products.
 Most of my work lives around software systems, client applications, device integration, and modern web UI.
