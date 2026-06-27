@@ -2,13 +2,15 @@
 
 C++ / SDK / cross-platform software developer.
 
-I build tools, automate workflows, and explore AI-powered products.
-Most of my work lives around software systems, client applications, device integration, and practical engineering tools.
+I work across native clients, Electron, Vue, automation workflows, and practical AI-powered products.
+Most of my work lives around software systems, client applications, device integration, and modern web UI.
 
-* 🧩 Building with C++, SDKs, cross-platform clients, and automation tools
-* 🌱 Exploring AI applications, workflow automation, and modern web products
+* 🧩 Building tools with C++, SDKs, Electron, Vue, and automation workflows
+* 🌱 Exploring AI applications and modern web products
 * 📖 More about my journey: [liuminxin45.github.io](https://liuminxin45.github.io)
 * 📫 Contact me: [dissengineer@gmail.com](mailto:dissengineer@gmail.com)
+
+
 
 ### Languages and Tools
 
