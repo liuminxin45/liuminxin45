@@ -7,7 +7,7 @@ Most of my work lives around software systems, client applications, device integ
 
 * 🧩 Building tools with C++, SDKs, Electron, Vue, and automation workflows
 * 🌱 Exploring AI applications and modern web products
-* 📖 More about my journey: [here](https://liuminxin45.github.io)
+* 📖 More about my journey: [more](https://liuminxin45.github.io)
 * 📫 Contact me: [dissengineer@gmail.com](mailto:dissengineer@gmail.com)
 
 
