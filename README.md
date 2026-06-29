@@ -1,69 +1,32 @@
-# Hi 👋, I'm Minxin Liu
+# Hi there，我是 Neo
 
-Cross-platform client software developer.
+---
 
-I work across native clients, Electron, Vue, automation workflows, and practical AI-powered products.
-Most of my work lives around software systems, client applications, device integration, and modern web UI.
+<img align="right" width="240" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-* 🧩 Building tools with C++, SDKs, Electron, Vue, and automation workflows
-* 🌱 Exploring AI applications and modern web products
-* 📖 More about my journey: [journey log](https://liuminxin45.github.io)
-* 📫 Contact me: [dissengineer@gmail.com](mailto:dissengineer@gmail.com)
+### 关于我
 
+* 跨平台客户端软件开发者
+* 主要和 **C / C++ / SDK / Qt / Electron ** 打交道
+* 更多关于我：**[旅程日志](https://liuminxin45.github.io)**
+* 联系我：**[邮箱](mailto:dissengineer@gmail.com)**
 
+<br clear="right"/>
 
-### Languages and Tools
+---
+
+### 核心技术栈
+
+#### 语言
 
 <p align="left">
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,ts,js&perline=8" />
 </p>
+
+#### 框架 / 技术
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=qt,electron,nodejs,vue,react&perline=8" />
+</p>
+
+---
