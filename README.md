@@ -11,7 +11,7 @@
 * 🧪 最近在折腾：**[auto-podcast](https://github.com/liuminxin45/auto-podcast)**
 * 🌱 关注 AI 应用、桌面端应用构建、现代 Web UI 和工程效率
 * 🧭 更多关于我：**[旅程](https://www.liuminxin.cn)**
-* 📫 联系我：**[dissengineer@gmail.com](mailto:dissengineer@gmail.com)**
+* 📫 联系我：**[neo.liumx@gmail.com](mailto:neo.liumx@gmail.com)**
 
 
 <br clear="right"/>
