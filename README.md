@@ -8,7 +8,7 @@
 
 * 🧪 最近：**[auto-podcast](https://github.com/liuminxin45/auto-podcast)**
 * 🧭 更多：**[旅程](https://www.liuminxin.cn)**
-* 📫 联系我：**[neo.liumx@gmail.com](mailto:neo.liumx@gmail.com)**
+* 📫 联系我：**[liuminxin@proto.me](mailto:liuminxin@proto.me)**
 
 
 <br clear="right"/>
