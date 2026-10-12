@@ -1,4 +1,4 @@
-# Hi there，我是 Neo 👋
+# Hi there，我是 刘民心 👋
 
 ---
 
@@ -6,7 +6,6 @@
 
 ### 👨‍💻 关于我
 
-* 🧪 最近：**[auto-podcast](https://github.com/liuminxin45/auto-podcast)**
 * 🧭 更多：**[旅程](https://www.liuminxin.cn)**
 * 📫 联系我：**[liuminxin@proto.me](mailto:liuminxin@proto.me)**
 
