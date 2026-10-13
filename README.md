@@ -14,7 +14,7 @@
 | [PodFlow Studio](https://github.com/liuminxin45/podflow-studio) | 本地优先的 AI 新闻播客制作工作台，从素材整理到音频成片与 RSS 发布。[介绍与试听](https://www.liuminxin.cn/works/podflow-studio) |
 | [Spec Kit](https://github.com/liuminxin45/spec-kit) | 基于 GitHub Spec Kit 扩展的 AI 编程工作流，包含任务分流、项目知识包与自动验收。 |
 | [ChatGPT Desktop UI](https://github.com/liuminxin45/ChatGPT-Desktop-UI) | 面向桌面界面的 React 组件库，提供共享控件、主题与布局。[在线演示](https://liuminxin45.github.io/ChatGPT-Desktop-UI/) |
-| [CppCoverageTool](https://github.com/liuminxin45/CppCoverageTool) | OpenCppCoverage 的 Qt 图形界面，简化 Windows C++ 覆盖率分析与报告合并。 |
+| [CppCoverageTool](https://github.com/liuminxin45/CppCoverageTool) | Windows C++ 覆盖率工作台，使用本地 Web 界面运行 OpenCppCoverage、合并覆盖率数据，并生成可离线查看的 HTML 报告。 |
 | [neo-os-siyuan](https://github.com/liuminxin45/neo-os-siyuan) | 思源笔记中的 AI 知识库插件，用于查询资料、整理知识与执行自定义工作流。 |
 | [ai-mahjong](https://github.com/liuminxin45/ai-mahjong) | 成都血战麻将 AI 对局与训练平台，支持策略评估、回放与可选战术讲解。[在线体验](https://ai-mahjong.vercel.app/) |
 
