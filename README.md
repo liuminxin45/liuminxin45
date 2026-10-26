@@ -19,16 +19,16 @@
 
 | 项目 | 做什么 |
 | --- | --- |
-| [AI Provider Lab](https://github.com/liuminxin45/ai-provider-lab) | 帮 Agent 在已有项目中接入本地代理、本地模型与 API 三类 AI Provider。 |
+| [AI Provider Lab](https://github.com/liuminxin45/ai-provider-lab) | 供 Agent 阅读的轻量 AI 接入参考，区分模型 API、本地 CLI Agent 与 MCP 工具，按需集成到已有项目。 |
 | [ChatGPT Desktop UI](https://github.com/liuminxin45/ChatGPT-Desktop-UI) | 面向桌面界面的 React 组件库，提供共享控件、主题与布局。[在线演示](https://liuminxin45.github.io/ChatGPT-Desktop-UI/) |
 | [CppCoverageTool](https://github.com/liuminxin45/CppCoverageTool) | Windows C++ 覆盖率工作台，运行 OpenCppCoverage、合并覆盖率数据，并生成离线 HTML 报告。 |
-| [Spec Kit](https://github.com/liuminxin45/spec-kit) | 基于 GitHub Spec Kit 扩展的 AI 编程工作流，包含任务分流、项目知识包与自动验收。 |
+| [Spec Kit](https://github.com/liuminxin45/spec-kit) | 基于 GitHub Spec Kit 扩展的 Codex 开发流程，按风险分流任务、复用知识包，并在人工验收前提供验证证据。 |
 
 ## 其它探索
 
 | 项目 | 做什么 |
 | --- | --- |
 | [neo-os-siyuan](https://github.com/liuminxin45/neo-os-siyuan) | 思源笔记中的 AI 知识库插件，用于查询资料、整理知识与执行自定义工作流。 |
-| [ai-mahjong](https://github.com/liuminxin45/ai-mahjong) | 成都血战麻将 AI 对局与训练平台，支持策略评估、回放与可选战术讲解。[在线体验](https://ai-mahjong.vercel.app/) |
+| [麻将研习](https://github.com/liuminxin45/ai-mahjong) | 用连续舍牌练习看清牌形、比较取舍，保留选择记录并查看学习反馈。[在线体验](https://www.liuminxin.cn/works/mahjong) |
 
 江湖路远，与诸君同行。
