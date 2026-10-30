@@ -11,7 +11,7 @@
 
 | 项目 | 做什么 |
 | --- | --- |
-| [Star Library](https://github.com/liuminxin45/star-library) | 300 多 KB 的单文件 Windows 星库，管理 GitHub Stars，用 AI 生成中文概括、兴趣画像和项目推荐。[介绍与截图](https://www.liuminxin.cn/works/star-library) |
+| [Star Library](https://github.com/liuminxin45/star-library) | 167 KB 的单文件 Windows 星库，管理 GitHub Stars，用 AI 生成中文概括、兴趣画像和项目推荐。[介绍与截图](https://www.liuminxin.cn/works/star-library) |
 | [hello-hermes](https://github.com/liuminxin45/hello-hermes) | 从 Hermes 理解 Agent 的中文图解手册，讲清运行机制、记忆与技能，并与 OpenClaw 对照。[在线阅读](https://liuminxin45.github.io/hello-hermes/) |
 | [PodFlow Studio](https://github.com/liuminxin45/podflow-studio) | 本地优先的 AI 新闻播客制作工作台，从素材整理到音频成片与 RSS 发布。[介绍与试听](https://www.liuminxin.cn/works/podflow-studio) |
 
