@@ -1,49 +1,37 @@
-# 嗨，我是刘民心，正沉浸在 AI 的海洋里~👋
+# Hi, I'm Neo
 
-主要做桌面应用与 SDK 开发，也会做一些自己用得上的工具。
-最近在探索怎样让 AI 参与实际开发，以及播客制作和个人知识管理。
+I build desktop applications, developer tools and experiments in AI-assisted learning and knowledge work.
 
-**常用技术** · C / C++ · Qt · Electron · TypeScript · Node.js
+## Projects
 
-[个人网站](https://www.liuminxin.cn/) · [文章](https://www.liuminxin.cn/blogs) · [造物](https://www.liuminxin.cn/works) · [联系我](mailto:liuminxin@proto.me)
+| | Project | What it does |
+| :---: | --- | --- |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/podflow-studio.svg" width="40" height="40" alt="" /> | [PodFlow Studio](https://github.com/liuminxin45/podflow-studio) | A local-first workspace for researching, writing and producing AI-assisted news podcasts. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/star-library.svg" width="40" height="40" alt="" /> | [Star Library](https://github.com/liuminxin45/star-library) | A native Windows library for GitHub Stars, with search and optional AI summaries. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/framelet.svg" width="40" height="40" alt="" /> | [Framelet](https://github.com/liuminxin45/framelet) | A Windows recorder with CLI and MCP controls and synchronized input and frames. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/ChatGPT-Desktop-UI.svg" width="40" height="40" alt="" /> | [ChatGPT Desktop UI](https://github.com/liuminxin45/ChatGPT-Desktop-UI) | A desktop interface component library with themes, layouts and React controls. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/CppCoverageTool.svg" width="40" height="40" alt="" /> | [CppCoverageTool](https://github.com/liuminxin45/CppCoverageTool) | A local Windows C++ line coverage workspace powered by OpenCppCoverage. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/ai-quota-monitor.svg" width="40" height="40" alt="" /> | [AI Monitor](https://github.com/liuminxin45/ai-quota-monitor) | A Windows tray app for checking AI subscription quota status. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/ai-provider-lab.svg" width="40" height="40" alt="" /> | [AI Provider Lab](https://github.com/liuminxin45/ai-provider-lab) | Integration reference for model APIs, CLI agents and MCP tools. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/codex-spec.svg" width="40" height="40" alt="" /> | [Codex Spec](https://github.com/liuminxin45/codex-spec) | Engineering guidance, specifications and optional knowledge indexes for Codex. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/ai-engineering-radar.svg" width="40" height="40" alt="" /> | [AI Engineering Radar](https://github.com/liuminxin45/ai-engineering-radar) | An index of engineering blogs and research from Chinese companies. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/hello-hermes.svg" width="40" height="40" alt="" /> | [hello-hermes](https://github.com/liuminxin45/hello-hermes) | An interactive Chinese guide to agent tools, context, memory and skills. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/neo-os-siyuan.svg" width="40" height="40" alt="" /> | [neo-os-siyuan](https://github.com/liuminxin45/neo-os-siyuan) | A SiYuan plugin for AI-assisted knowledge work and MCP workflows. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/ai-mahjong.svg" width="40" height="40" alt="" /> | [Mahjong Practice](https://github.com/liuminxin45/ai-mahjong) | A browser-based discard trainer with saved choices and learning feedback. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/neo-folio.svg" width="40" height="40" alt="" /> | [Neo Folio](https://github.com/liuminxin45/neo-folio) | A React template for personal sites, blogs, project directories and photography. |
 
-Liuminxin / Neo builds desktop applications, SDKs, developer tools, and interactive learning projects. This profile links to the original repositories, technical articles, and personal website.
+## Podcast archives
 
-## 按用途找项目
+| | Project | What it does |
+| :---: | --- | --- |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/podflow-morning-feed.svg" width="40" height="40" alt="" /> | [PodFlow Morning Feed](https://github.com/liuminxin45/podflow-morning-feed) | Release archive for reviewed podcast episodes, audio and source material. |
+| <img src="https://raw.githubusercontent.com/liuminxin45/liuminxin45/main/assets/projects/podflow-web-trials.svg" width="40" height="40" alt="" /> | [PodFlow Web Trials](https://github.com/liuminxin45/podflow-web-trials) | Release archive for AI-generated podcast trials without human review. |
 
-- 整理开发工作：Star Library 管理 GitHub Stars，CppCoverageTool 查看 Windows C++ 行覆盖率，Framelet 录制界面演示。
-- 接入与开发 AI：AI Provider Lab 区分模型 API、CLI Agent 和 MCP；Codex Spec 提供按需工程指导；ChatGPT Desktop UI 提供共享界面组件。
-- 持续学习：AI Engineering Radar 跟踪国内官方团队博文和论文；hello-hermes 讲解 Agent 机制；Hello Desktop 学习 Windows 客户端工程。
-- 内容与知识：PodFlow Studio 制作新闻播客，neo-os-siyuan 在思源中查询和整理知识。
+## Forks
 
-各项目的运行环境、许可和实际能力以对应仓库文档为准。
-
-## 最近的作品
-
-| 项目 | 做什么 |
+| Repository | Upstream project |
 | --- | --- |
-| [Star Library](https://github.com/liuminxin45/star-library) | 单文件 Windows 星库，管理 GitHub Stars，用 AI 生成中文概括、兴趣画像和项目推荐。[介绍与截图](https://www.liuminxin.cn/works/star-library) |
-| [hello-hermes](https://github.com/liuminxin45/hello-hermes) | 通过交互新闻任务和中文图文资料学习 Agent 的工具循环、上下文、记忆与技能。[在线阅读](https://liuminxin45.github.io/hello-hermes/) |
-| [PodFlow Studio](https://github.com/liuminxin45/podflow-studio) | 本地优先的 AI 新闻播客制作工作台，从素材整理到音频成片与 RSS 发布。[介绍与试听](https://www.liuminxin.cn/works/podflow-studio) |
-
-## 开发工具
-
-| 项目 | 做什么 |
-| --- | --- |
-| [AI Provider Lab](https://github.com/liuminxin45/ai-provider-lab) | 供 Agent 阅读的轻量 AI 接入参考，区分模型 API、本地 CLI Agent 与 MCP 工具，按需集成到已有项目。 |
-| [ChatGPT Desktop UI](https://github.com/liuminxin45/ChatGPT-Desktop-UI) | 面向桌面界面的 React 组件库，提供共享控件、主题与布局。[在线演示](https://liuminxin45.github.io/ChatGPT-Desktop-UI/) |
-| [CppCoverageTool](https://github.com/liuminxin45/CppCoverageTool) | Windows C++ 覆盖率工作台，运行 OpenCppCoverage、合并覆盖率数据，并生成离线 HTML 报告。 |
-| [Codex Spec](https://github.com/liuminxin45/codex-spec) | 面向 Codex 的轻量工程指导，按需读取指南，维护独立 Spec 与可选项目知识索引。 |
-
-## 其它探索
-
-| 项目 | 做什么 |
-| --- | --- |
-| [neo-os-siyuan](https://github.com/liuminxin45/neo-os-siyuan) | 思源笔记中的 AI 知识库插件，用于查询资料、整理知识与执行自定义工作流。 |
-| [麻将研习](https://github.com/liuminxin45/ai-mahjong) | 用连续舍牌练习看清牌形、比较取舍，保留选择记录并查看学习反馈。[在线体验](https://www.liuminxin.cn/works/mahjong) |
-
-江湖路远，与诸君同行。
-
-## 公开项目仓库
-
-[ai-engineering-radar](https://github.com/liuminxin45/ai-engineering-radar) · [ai-mahjong](https://github.com/liuminxin45/ai-mahjong) · [ai-provider-lab](https://github.com/liuminxin45/ai-provider-lab) · [ai-quota-monitor](https://github.com/liuminxin45/ai-quota-monitor) · [aravis-fake-camera](https://github.com/liuminxin45/aravis-fake-camera) · [ChatGPT-Desktop-UI](https://github.com/liuminxin45/ChatGPT-Desktop-UI) · [codex-spec](https://github.com/liuminxin45/codex-spec) · [CppCoverageTool](https://github.com/liuminxin45/CppCoverageTool) · [framelet](https://github.com/liuminxin45/framelet) · [hello-desktop](https://github.com/liuminxin45/hello-desktop) · [hello-hermes](https://github.com/liuminxin45/hello-hermes) · [neo-folio](https://github.com/liuminxin45/neo-folio) · [neo-os-siyuan](https://github.com/liuminxin45/neo-os-siyuan) · [podflow-studio](https://github.com/liuminxin45/podflow-studio) · [star-library](https://github.com/liuminxin45/star-library) · [uu](https://github.com/liuminxin45/uu)
+| [Easel](https://github.com/liuminxin45/Easel) | [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) — AI agent for social media workflows. |
+| [Wechatsync](https://github.com/liuminxin45/Wechatsync) | [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) — cross-platform article publishing. |
+| [ChatGPT Exporter](https://github.com/liuminxin45/ChatGPT-Exporter) | [huhusmang/ChatGPT-Exporter](https://github.com/huhusmang/ChatGPT-Exporter) — export ChatGPT conversations. |
+| [RuView](https://github.com/liuminxin45/RuView) | [ruvnet/RuView](https://github.com/ruvnet/RuView) — Wi-Fi sensing and spatial intelligence. |
